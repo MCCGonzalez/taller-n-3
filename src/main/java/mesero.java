@@ -16,6 +16,7 @@ public class mesero {
 
     public boolean getEntregarPedido() {
         return this._entregarPedido;
+
     }
 
     public void setEntregarPedido(boolean aEntregarPedido) {
